@@ -1,2 +1,2 @@
 # HTML-and-CSS
-The Tech Academy HTML and CSS assignments.
+My submissions for The Tech Academy HTML and CSS assignments.
