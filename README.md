@@ -1,2 +1,2 @@
-# HTLM-and-CSS
+# HTML-and-CSS
 The Tech Academy HTML and CSS assignments.
