@@ -1,7 +1,9 @@
 p {
-	background-color: DarkSlateBlue;
+	background-color: Coral;
 	color: white;
 	text-align: center;
 	font-size: medium;
+	text-shadow: 2px 2px black;
 }
 /* To write a comment use these */
+/* Shadow effects add shaddows to your characters in HTML */
