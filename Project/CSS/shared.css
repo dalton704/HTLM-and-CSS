@@ -154,7 +154,7 @@ section {
     color: #fff;
     letter-spacing: 5pt;
     word-spacing: 21pt;
-    font-size: 4..5em;
+    font-size: 4.5em;
     text-align: left;
     font-family: impact, sans-serif;
     line-height: 2;
@@ -203,7 +203,7 @@ section {
 }
 
 .reservation h2 {
-    width: 70%;
+    width: 90%;
     text-align: center;
     margin: 0 auto;
     color: #13161B;
@@ -221,14 +221,15 @@ section {
     font-weight: 900;
     font-size: 1.5em;
     font-variant: small-caps;
-    letter-spacing: .4pt;
-    word-spacing: .3pt;
+    letter-spacing: .3pt;
+    word-spacing: .2pt;
 }
 
-.reservation p {
+.rsvp-text {
     color: #13161B;
     width: 50%;
     margin: 0 auto;
+    text-align:center;
 }
 
 .reservation form {
@@ -273,7 +274,7 @@ section {
 }
 .terms {
     margin: 30px 1px 0 0;
-    margin-top: 13%;
+    margin-top: 9%;
     padding-left: 52px;
     font-size: 14px;
     line-height: 5px;
