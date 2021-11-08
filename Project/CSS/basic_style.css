@@ -18,12 +18,12 @@ h1 {
 
 /* SELECT ALL THE SQUARES IN THE ARRAY */
 
-.container .sqaures:nth-child(-n+4) {
+.container .squares:nth-child(-n+4) {
     background-image: url("../images/icons/smileyface2.png");
     color: #fff;
     float: left;
     width: 100px;
-    height: 100pc;
+    height: 100px;
     margin: 5px;
     border: 1px solid black;
     border-radius: 25%;
@@ -33,16 +33,16 @@ h1 {
 
 /*--SELECT ALL SQAURES PARAGRAPHS IN THE ARRAY--*/
 
-.sqaure:nth-child(-n+4) p {
+.squares:nth-child(-n+4) p{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.5cm;
+    font-size: 1.5em;
     font-weight: 900;
     text-align: center;
     margin: 0;
     text-shadow: 2px 1px 4px rgba(0,0,0, 0.8);
 }
 
-/* INDIVIUAL SWELECT A SQAURE */
+/* INDIVIUAL SWELECT A SQUARE */
 
 .squares:nth-child(1) {
     background: #4240ff;
