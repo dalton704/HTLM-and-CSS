@@ -65,8 +65,8 @@ h1 {
 .container .squares:nth-child(-n+4):hover {
     background-image: url("../images/icons/smileyface1.png");
     transform: scale(0.5);
-    animation-name: race;
-    animation-delay: 2.5s;
+    animation-name: rotate;
+    animation-duration: 2.5s;
     animation-iteration-count: infinite;
     animation-timing-function: cubic-bezier(2.5,.2,.3,2);
 }
@@ -89,12 +89,13 @@ h1 {
 
 /* Animation effect */
 
-@keyframes race {
+@keyframes rotate {
     0%, 100% {
         transform: translateY(0px);
-        background-image: url("../images/icons/smileyface1.png");
+        background-image: url("../Images/Icons/smileyface1.png");
     }
     50% {
         transform: translateY(330px);
+        background-image: url("../Images/Icons/smileyface1.png");
     }
 }
