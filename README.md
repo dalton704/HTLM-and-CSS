@@ -5,4 +5,4 @@ My submissions for The Tech Academy HTML and CSS assignments.
 <br>
 <ul>
     <li><a href="/bootstrap4_project/Academy_cinemas.html">Academy Cinemas</a></li>
-    <li><a href="/One-page website/one_page_website.html">Dungeons and Dragons</a></li>
+    <li><a href="/One-page Website/one_page_website.html">Dungeons and Dragons</a></li>
