@@ -11,5 +11,9 @@ My submissions for The Tech Academy HTML and CSS assignments.
 <br>
 <h2> Academy Cinemas</h2>
 <br>
-<p>Academy Cinemas is a basic website that I created using bootstrap4. It's and example of a home page for a movie theater called Academy Cinemas.</p>
+<p>Academy Cinemas is a basic website that I created using bootstrap4. It's an example of a home page for a movie theater called Academy Cinemas. The entire website only used bootstap4. I used bootstap components such as, columns, jumbotron, navbar, and more.</p>
+<br>
+<br>
+<h2>Dungeons and Dragons</h2>
+<p>Dungeons and Dragons is the first website I created. It has a lot of basic functions like a navigation bar, Gallery, form input boxed, and more. The input boxes are functional enough to where you can type in them but the submit button won't submit anything.
 
