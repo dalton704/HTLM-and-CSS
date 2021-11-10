@@ -169,3 +169,22 @@ footer {
         display: none;
     }
 }
+
+/* Texts over the Video */
+.Video_Text {
+    background: rgba(0,0,0,0.5);
+    color: white;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+    -webkit-animation: moveVideoText 5.75s;
+    animation: moveVideoText 5.75s;
+}
+
+/* Text overlay animation for title */
+@keyframes moveVideoText {
+    from {top: -100vw;}
+    to {top: 0vw;}
+}
+
+/******* END VIDEO STYLING **********/
