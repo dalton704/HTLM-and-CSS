@@ -1,10 +1,34 @@
 body {
     background-color: #919191;
 }
+
+.nav-bar {
+    overflow: hidden;
+    background-color: #20b2AA;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 0 20px;
+}
+
+.nav-bar a:hover {
+    background-color: black;
+    color: blue;
+}
+
 .Image {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
     width: 50%;
     filter: grayscale(80%);
 }
@@ -21,13 +45,34 @@ img{
     transform:translate(-50%, -50%);
 }
 
-p {
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+}
+
+.column p:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.row:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+footer p {
     display: inline;
     color: white;
 }
 
  table {
     border: 1px solid black;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 th {
