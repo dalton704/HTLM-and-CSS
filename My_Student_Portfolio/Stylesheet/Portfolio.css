@@ -63,7 +63,6 @@ q {
 
 /* Image elements */
 img {
-    filter: grayscale(75%);
     border-radius: 8px;
     max-width: 100%;
     height: 340px;
@@ -74,7 +73,6 @@ img {
 
 /*Image element hover effects */
 img:hover {
-    filter: grayscale(5%);
     transition: transform 1s;
     transform: scale(1.1);
 }
