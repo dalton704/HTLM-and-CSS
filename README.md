@@ -2,6 +2,7 @@
 My submissions for The Tech Academy HTML and CSS assignments.
 
 Projects:
-  
- -> One-page website
-  <br> Dungeon and Dragons 
+ <br> 
+ <br>
+ <ul>
+  <li><a src="Dungeon and Dragons</li>
