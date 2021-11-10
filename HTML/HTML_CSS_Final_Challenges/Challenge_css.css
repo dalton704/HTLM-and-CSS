@@ -12,3 +12,13 @@ body {
 img{
     border-radius: 100px;
 }
+
+p {
+    display: inline;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
