@@ -13,9 +13,31 @@ img{
     border-radius: 100px;
 }
 
+.bottom-center {
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform:translate(-50%, -50%);
+}
+
 p {
     display: inline;
     color: white;
+}
+
+ table {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+    background-color: #d6EEEE;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
 }
 
 footer {
