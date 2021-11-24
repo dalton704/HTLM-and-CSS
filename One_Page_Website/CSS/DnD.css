@@ -212,7 +212,7 @@ section {
 /*Create nine equal columns that float next to each other*/
 .column {
     float: left;
-    width: 10%;
+    width: 11.11%;;
 }
 
 /*THe Modal background */
@@ -220,11 +220,11 @@ section {
     display: none;
     position: fixed;
     z-index: 1;
-    padding-top: 100px;
+    padding-top: 50px;
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: 95%;
     overflow: auto;
     background-color: black;
 }
