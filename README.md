@@ -15,5 +15,5 @@ My submissions for The Tech Academy HTML and CSS assignments.
 <br>
 <br>
 <h2>Dungeons and Dragons</h2>
-<p>Dungeons and Dragons is the first website I created. It has a lot of basic functions like a navigation bar, Gallery, form input boxed, and more. The input boxes are functional enough to where you can type in them but the submit button won't submit anything.
+<p>Dungeons and Dragons is the first website I created. It has a lot of basic functions like a navigation bar, Gallery, form input boxed, and more. The website also has a function Lightbox for the gallery. The input boxes are functional enough to where you can type in them but the submit button won't submit anything.</p>
 
